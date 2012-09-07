@@ -1,4 +1,4 @@
-OpenBravo POS Vietnamese Translation
+Unicenta oPOS Vietnamese Translation
 ====================================
 - Target version: 2.80
 - Final target: Unicenta oPOS
