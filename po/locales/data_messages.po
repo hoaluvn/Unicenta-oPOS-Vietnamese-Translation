@@ -149,7 +149,7 @@ msgstr ""
 
 #: qbf.none
 msgid "None"
-msgstr ""
+msgstr "Bỏ qua"
 
 #: qbf.null
 msgid "Is null"
@@ -161,27 +161,27 @@ msgstr ""
 
 #: qbf.equals
 msgid "Equals"
-msgstr ""
+msgstr "Bằng"
 
 #: qbf.distinct
 msgid "Distinct"
-msgstr ""
+msgstr "Khác"
 
 #: qbf.greater
 msgid "Greater"
-msgstr ""
+msgstr ">"
 
 #: qbf.less
 msgid "Less"
-msgstr ""
+msgstr "<"
 
 #: qbf.greaterequals
 msgid "Greater or equal"
-msgstr ""
+msgstr ">="
 
 #: qbf.lessequals
 msgid "Less or equals"
-msgstr ""
+msgstr "<="
 
 #: qbf.re
 msgid "Wildcards"

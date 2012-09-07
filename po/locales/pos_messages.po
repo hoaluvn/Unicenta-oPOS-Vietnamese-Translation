@@ -116,7 +116,7 @@ msgstr "Nhận"
 #: button.refund
 msgctxt "button.refund"
 msgid "Refund"
-msgstr ""
+msgstr "Trả hàng"
 
 #: button.refundall
 msgid "Refund All"
@@ -145,7 +145,7 @@ msgstr "Đặt chổ"
 #: button.reset
 msgctxt "button.reset"
 msgid "Reset"
-msgstr "Cài đặt lại"
+msgstr "Làm lại"
 
 #: Button.Restore
 msgid "Undo"
@@ -477,7 +477,7 @@ msgstr "email"
 
 #: Label.EndDate
 msgid "End Date"
-msgstr "Ngày kết thúc"
+msgstr "Đến ngày"
 
 #: label.fax
 msgid "Fax"
@@ -961,7 +961,7 @@ msgstr "SHA"
 
 #: Label.StartDate
 msgid "Start Date"
-msgstr "Ngày bắt đầu"
+msgstr "Từ ngày"
 
 #: label.stockdate
 msgctxt "label.stockdate"
@@ -1178,7 +1178,7 @@ msgstr "Khách hàng"
 
 #: Menu.CustomersPayment
 msgid "Customer Payment"
-msgstr "Customer Payment"
+msgstr "Trả tiền"
 
 #: Menu.CustomersReport
 msgctxt "Menu.CustomersReport"
@@ -1345,7 +1345,7 @@ msgstr "Stock Diary"
 #: Menu.StockManagement
 msgctxt "Menu.StockManagement"
 msgid "Stock"
-msgstr "Kho"
+msgstr "Kho hàng"
 
 #: Menu.StockManagement.Edit
 msgctxt "Menu.StockManagement.Edit"
@@ -1398,7 +1398,7 @@ msgstr "Bán hàng"
 
 #: Menu.TicketEdit
 msgid "Edit Sales"
-msgstr "Sửa đơn hàng"
+msgstr "Trả hàng"
 
 #: Menu.TicketRefund
 msgctxt "Menu.TicketRefund"
@@ -1958,11 +1958,11 @@ msgstr ""
 #: transpayment.debt
 msgctxt "transpayment.debt"
 msgid "Debt"
-msgstr "Dư nợ"
+msgstr "Ghi nợ"
 
 #: transpayment.debtpaid
 msgid "Debt Paid"
-msgstr "Thanh toán dư nợ"
+msgstr "Trả nợ"
 
 #: Visor.Title
 msgid "uniCenta oPOS"
