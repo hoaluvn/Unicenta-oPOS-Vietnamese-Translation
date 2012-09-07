@@ -15,12 +15,13 @@ Tool
 
 How to translate
 ====================================
-- For the first time, I had to convert *.properties -> *.po
-	$ prop2po locales po/locales
+- For the first time, I had to convert *.properties -> *.po \.
+$ prop2po locales po/locales
+
 - Use Poediter to translate po/locales/*.po to Vietnamese
 
-- Convert *.po -> *.properties
-	$ po2prop po/locales vi_VN/locales -t locales
+- Convert *.po -> *.properties \.
+$ po2prop po/locales vi_VN/locales -t locales
 
 Install
 ====================================
