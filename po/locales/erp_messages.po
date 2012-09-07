@@ -1,0 +1,116 @@
+#. #    uniCenta oPOS  - Touch Friendly Point Of Sale
+#. #    Copyright (c) 2009-2011 uniCenta
+#. #    http://sourceforge.net/projects/unicentaopos
+#. #    Copyright (c) 2007 openTrends Solucions i Sistemes, S.L
+#. #    Modified by Openbravo SL on March 22, 2007
+#. #    These modifications are copyright Openbravo SL
+#. #    Author/s: A. Romero
+#. #    You may contact Openbravo SL at: http://www.openbravo.com
+#. #
+#. #    This file is part of uniCenta oPOS.
+#. #
+#. #    uniCenta oPOS is free software: you can redistribute it and/or modify
+#. #    it under the terms of the GNU General Public License as published by
+#. #    the Free Software Foundation, either version 3 of the License, or
+#. #    (at your option) any later version.
+#. #
+#. #    uniCenta oPOS is distributed in the hope that it will be useful,
+#. #    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#. #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#. #    GNU General Public License for more details.
+#. #
+#. #    You should have received a copy of the GNU General Public License
+#. #    along with uniCenta oPOS.  If not, see <http://www.gnu.org/licenses/>.
+#. extracted from locales/erp_messages.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-06 11:10+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: label.configerp
+msgid "ERP configuration"
+msgstr ""
+
+#: label.erpurl
+msgid "Services URL"
+msgstr ""
+
+#: label.erpid
+msgid "Entity code"
+msgstr ""
+
+#: label.erporg
+msgid "Organization code"
+msgstr ""
+
+#: label.erppos
+msgid "POS code"
+msgstr ""
+
+#: label.erpuser
+msgid "User"
+msgstr ""
+
+#: label.erppassword
+msgid "Password"
+msgstr ""
+
+#: message.urlnotdefined
+msgid "Synchronization service URL has not been defined."
+msgstr ""
+
+#: message.syncordersok
+msgid "The orders synchronization has been successful."
+msgstr ""
+
+#: message.syncordersinfo
+msgid "{0} orders synchronized."
+msgstr ""
+
+#: message.syncproductsok
+msgid "The data synchronization has been successful."
+msgstr ""
+
+#: message.syncproductsinfo
+msgid ""
+"{0} products synchronized.\n"
+"{1} customers synchronized."
+msgstr ""
+
+#: message.remoteexception
+msgid "Communication error."
+msgstr ""
+
+#: message.serviceexception
+msgid "Cannot connect to the service."
+msgstr ""
+
+#: message.malformedurlexception
+msgid "The service URL is wrong."
+msgstr ""
+
+#: message.returnnull
+msgid "Synchronization parameters are wrong."
+msgstr ""
+
+#: message.zeroproducts
+msgid "There are no data to synchronize."
+msgstr ""
+
+#: message.zeroorders
+msgid "There are no orders to synchronize."
+msgstr ""
+
+#: message.propsnotdefined
+msgid ""
+"The synchronization properties resource \"openbravo.properties\" has not been "
+"defined."
+msgstr ""

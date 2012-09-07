@@ -1,0 +1,1970 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-06 11:10+0700\n"
+"PO-Revision-Date: 2012-09-07 16:26+0700\n"
+"Last-Translator: Hoa T. Lu <hoalu.vn@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: Button.Cancel
+msgid "Cancel"
+msgstr "Hủy"
+
+#: button.catalogadd
+msgid "Add"
+msgstr "Thêm vào"
+
+#: button.catalogdel
+msgid "Remove"
+msgstr "Xóa bỏ"
+
+#: button.clean
+msgctxt "button.clean"
+msgid "Reset"
+msgstr "Làm lại"
+
+#: Button.Close
+msgid "Exit"
+msgstr "Thoát"
+
+#: Button.CloseCash
+msgctxt "Button.CloseCash"
+msgid "Close Cash"
+msgstr "Đóng quầy"
+
+#: button.Discount
+msgid "Discount"
+msgstr "Giảm giá"
+
+#: Button.DeleteTicket
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: button.edit
+msgid "Edit"
+msgstr "Sửa"
+
+#: button.ExecuteChart
+msgid "Execute Chart"
+msgstr "Vẽ biểu đồ"
+
+#: button.executefilter
+msgid "Run Filter"
+msgstr "Tìm"
+
+#: Button.ExecuteReport
+msgid "Run Report"
+msgstr "Tạo báo cáo"
+
+#: Button.Factory
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: button.linediscount
+msgctxt "button.linediscount"
+msgid "Disc' %"
+msgstr "Đĩa' %"
+
+#: button.listtickets
+msgid "List"
+msgstr "Danh sách"
+
+#: button.movetable
+msgid "Move"
+msgstr "Chuyển"
+
+#: button.NewTicket
+msgid "New"
+msgstr "Tạo mới"
+
+#: Button.OK
+msgid "OK"
+msgstr "OK"
+
+#: button.opendrawer
+msgid "Drawer"
+msgstr "Ngăn kéo"
+
+#: button.pay
+msgid "Pay"
+msgstr "Thanh toán"
+
+#: button.peoplepassword
+msgctxt "button.peoplepassword"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: button.print
+msgctxt "button.print"
+msgid "Print"
+msgstr "In"
+
+#: Button.PrintCash
+msgctxt "Button.PrintCash"
+msgid "Print"
+msgstr "In"
+
+#: button.receive
+msgid "Receive"
+msgstr "Nhận"
+
+#: button.refund
+msgctxt "button.refund"
+msgid "Refund"
+msgstr ""
+
+#: button.refundall
+msgid "Refund All"
+msgstr "Trả lại tất cả"
+
+#: button.refundit
+msgid "Refund Item"
+msgstr ""
+
+#: button.refundline
+msgid "Refund Line"
+msgstr "Trả lại một mục"
+
+#: button.refundone
+msgid "Refund One"
+msgstr "Trả lại một đơn vị"
+
+#: button.reloadticket
+msgid "Reload"
+msgstr "Nạp lại"
+
+#: button.reservations
+msgid "Reservations"
+msgstr "Đặt chổ"
+
+#: button.reset
+msgctxt "button.reset"
+msgid "Reset"
+msgstr "Cài đặt lại"
+
+#: Button.Restore
+msgid "Undo"
+msgstr "Hủy bước"
+
+#: Button.Save
+msgid "Save"
+msgstr "Lưu"
+
+#: button.scale
+#, fuzzy
+msgctxt "button.scale"
+msgid "Scale"
+msgstr "Tỷ lệ"
+
+#: button.sendorder
+msgid "Kitchen"
+msgstr "Nhà bếp"
+
+#: button.setperson
+msgid "Waiter"
+msgstr "Nhân viên phục vụ"
+
+#: button.tables
+msgctxt "button.tables"
+msgid "Tables"
+msgstr "Bàn"
+
+#: button.totaldiscount
+msgctxt "button.totaldiscount"
+msgid "Total Disc'"
+msgstr "Tổng số đĩa'"
+
+#: caption.tickets
+msgctxt "caption.tickets"
+msgid "Tickets"
+msgstr ""
+
+#: caption.upload
+#, fuzzy
+msgid "Upload Product List"
+msgstr "<b>Danh sách tập tin hiện có</b>"
+
+#: caption.split
+#, fuzzy
+msgid "Split Receipt"
+msgstr "— Giao dịch phân tách —"
+
+#: database.ScriptError
+msgid "Cannot execute the database creation script."
+msgstr ""
+
+#: database.ScriptWarning
+msgid "Creation Script did not run successfully."
+msgstr ""
+
+#: display.Null
+#, fuzzy
+msgid "Display not available"
+msgstr "Thành phần không sẵn có"
+
+#: display.Screen
+#, fuzzy
+msgid "Screen Display"
+msgstr "Hiển thị trên màn hình"
+
+#: display.Window
+msgid "Display"
+msgstr "Hiển thị"
+
+#: exception.unavailabledataset
+#, fuzzy
+msgid "Dataset not available"
+msgstr "Thành phần không sẵn có"
+
+#: exception.unavailablefield
+#, fuzzy
+msgid "Field not defined: {0}"
+msgstr "Không phải hàm đã xác định"
+
+#: exception.unavailablefields
+#, fuzzy
+msgid "Fields not available"
+msgstr "Thành phần không sẵn có"
+
+#: filter.dbdriverlib
+msgid "Driver library (*.jar,*.zip)"
+msgstr ""
+
+#: form.customertitle
+msgid "Customer List"
+msgstr "Danh sách khách hàng"
+
+#: form.productslist
+msgid "Product List"
+msgstr "Danh mục hàng hóa"
+
+#: form.selectprintertitle
+msgid "Select Printer"
+msgstr "Chọn máy in"
+
+#: form.tickettitle
+#, fuzzy
+msgid "Ticket List"
+msgstr "Danh sách vùng"
+
+#: label.address
+msgid "Address Line 1"
+msgstr "Địa chỉ"
+
+#: label.address2
+msgid "Address Line 2"
+msgstr "Địa chỉ"
+
+#: label.all
+msgid "All"
+msgstr "Tất cả"
+
+#: label.attribute
+msgid "Attribute"
+msgstr "Thuộc tính"
+
+#: label.attributes
+msgid "Attributes"
+msgstr "Thuộc tính"
+
+#: label.attributeset
+msgid "Attribute Set"
+msgstr "Thiết lập thuộc tính"
+
+#: label.bybarcode
+msgid "By Barcode"
+msgstr "Theo mã vạch"
+
+#: label.bydates
+msgid "By Date"
+msgstr "Theo ngày"
+
+#: label.byform
+msgid "By Form"
+msgstr "Theo form"
+
+#: label.byreason
+msgid "By Reason"
+msgstr "Theo lý do"
+
+#: label.bycustomer
+msgid "By Customer"
+msgstr "Theo khách hàng"
+
+#: label.byproduct
+msgid "By Product"
+msgstr "Theo nhẵn hàng"
+
+#: label.bywarehouse
+msgid "By Location"
+msgstr "Theo vị trí"
+
+#: label.card
+msgctxt "label.card"
+msgid "Card"
+msgstr "Thẻ"
+
+#: label.cardexpdate
+msgid "Expiry Date"
+msgstr "Expiry Date"
+
+#: label.cardholder
+msgid "Holder's Name"
+msgstr "Holder's Name"
+
+#: label.cardnumber
+msgid "Card Number"
+msgstr "Card number"
+
+#: Label.Cash
+msgctxt "Label.Cash"
+msgid "Cash"
+msgstr "Tiền mặt"
+
+#: label.cascade
+msgid "Cascade"
+msgstr "Cascade"
+
+#: Label.CashMachine
+msgid "Cash Register"
+msgstr ""
+
+#: label.catid
+msgctxt "label.catid"
+msgid "ID"
+msgstr "ID"
+
+#: label.catimage
+msgctxt "label.catimage"
+msgid "Image"
+msgstr "Ảnh"
+
+#: label.catname
+msgctxt "label.catname"
+msgid "Category"
+msgstr "Danh mục"
+
+#: label.certificatepwd
+msgid "Certificate Password"
+msgstr ""
+
+#: label.certificatepath
+msgid "Certificate"
+msgstr ""
+
+#: Label.ChangeCash
+msgid "Change"
+msgstr "Thối lại"
+
+#: label.city
+msgid "Town/City"
+msgstr "Thành phố"
+
+#: label.commerceid
+msgid "Commerce ID"
+msgstr ""
+
+#: label.commercepwd
+msgid "Commerce P/wd"
+msgstr ""
+
+#: label.commercesign
+msgid "Commerce Sign"
+msgstr ""
+
+#: label.contact
+msgid "Contact"
+msgstr "Liên lạc"
+
+#: label.country
+msgid "Country"
+msgstr "Nước"
+
+#: label.curdebt
+msgid "Current Debt"
+msgstr "Dư nợ hiện tại"
+
+#: label.curdate
+msgid "Debt Date"
+msgstr "Ngày ghi nợ"
+
+#: label.currency
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: label.customer
+msgctxt "label.customer"
+msgid "Customer"
+msgstr "Khách hàng"
+
+#: label.custtaxcategory
+msgid "Customer Tax Category"
+msgstr "Danh mục thuế"
+
+#: Label.Database
+msgid "Database"
+msgstr "Cơ sở dữ liệu"
+
+#: label.date
+msgctxt "label.date"
+msgid "Date"
+msgstr "Ngày tháng"
+
+#: label.datestitle
+msgid "Cash Dates"
+msgstr ""
+
+#: label.datetime
+msgid "Date Time"
+msgstr "Ngày/Giờ"
+
+#: Label.DbDriver
+msgid "Driver Class"
+msgstr "Driver class"
+
+#: label.dbdriverlib
+msgid "Driver Library"
+msgstr "Driver library"
+
+#: Label.DbPassword
+msgctxt "Label.DbPassword"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: Label.DbURL
+msgid "URL"
+msgstr "URL"
+
+#: Label.DbUser
+msgctxt "Label.DbUser"
+msgid "User"
+msgstr "Người dùng"
+
+#: label.debt
+msgctxt "label.debt"
+msgid "Debt"
+msgstr "Dư nợ"
+
+#: label.double
+msgid "Double"
+msgstr "Double"
+
+#: label.dutyid
+msgctxt "label.dutyid"
+msgid "ID"
+msgstr "ID"
+
+#: label.dutyname
+msgid "Tax Name"
+msgstr "Loại thuế"
+
+#: label.dutyrate
+msgid "Rate"
+msgstr "Tỷ lệ"
+
+#: label.editline
+msgid "Edit Line"
+msgstr "Sửa dòng"
+
+#: label.email
+msgid "email"
+msgstr "email"
+
+#: Label.EndDate
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+#: label.fax
+msgid "Fax"
+msgstr "Fax"
+
+#: label.firstname
+msgid "First Name"
+msgstr "Tên"
+
+#: label.floorid
+msgctxt "label.floorid"
+msgid "ID"
+msgstr "ID"
+
+#: label.floorname
+msgctxt "label.floorname"
+msgid "Floor"
+msgstr "Tầng"
+
+#: label.image
+msgctxt "label.image"
+msgid "Image"
+msgstr "Ảnh"
+
+#: Label.InputCash
+msgid "Given"
+msgstr "Nhận"
+
+#: label.integer
+msgid "Integer"
+msgstr "Số nguyên"
+
+#: label.item
+msgid "Item"
+msgstr "Hàng hóa"
+
+#: label.javapos.drawer
+msgid "Drawer Name"
+msgstr ""
+
+#: label.javapos.printer
+msgid "Printer Name"
+msgstr "Tên máy in"
+
+#: label.lastname
+msgid "Last Name"
+msgstr "Họ"
+
+#: label.lindediscount
+msgctxt "label.lindediscount"
+msgid "Disc' %"
+msgstr "Đĩa' %"
+
+#: label.LoadError
+msgid "Error trying to show this functionality"
+msgstr ""
+
+#: label.locale
+msgid "Locale"
+msgstr "Locale"
+
+#: label.location
+msgctxt "label.location"
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: label.locationaddress
+msgctxt "label.locationaddress"
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: label.locationid
+msgctxt "label.locationid"
+msgid "ID"
+msgstr "ID"
+
+#: label.locationname
+msgctxt "label.locationname"
+msgid "Name"
+msgstr "Tên"
+
+#: label.looknfeel
+msgid "Skin"
+msgstr "Skin"
+
+#: Label.MachineDisplay
+msgid "Customer Display"
+msgstr "Thông tin khách hàng"
+
+#: label.machinedisplayconn
+msgid "Mode"
+msgstr "Chế độ"
+
+#: label.machinedisplayport
+msgctxt "label.machinedisplayport"
+msgid "Port"
+msgstr "Port"
+
+#: Label.MachineName
+msgctxt "Label.MachineName"
+msgid "Name"
+msgstr "Tên"
+
+#: Label.MachinePrinter
+msgid "Printer"
+msgstr "Máy in"
+
+#: Label.MachinePrinter2
+msgid "Printer 2"
+msgstr "Máy in 2"
+
+#: Label.MachinePrinter3
+msgid "Printer 3"
+msgstr "Máy in 3"
+
+#: label.machineprinterport
+msgctxt "label.machineprinterport"
+msgid "Port"
+msgstr "Port"
+
+#: Label.MachineScreen
+msgid "Screen"
+msgstr "Màn hình"
+
+#: label.magcardreader
+msgid "Mag Card Reader"
+msgstr "Đầu đọc thẻ"
+
+#: label.maxdebt
+msgid "Credit Limit"
+msgstr "Hạn mức nợ"
+
+#: label.maximum
+msgid "Maximum"
+msgstr "Tối đa"
+
+#: label.merchantcode
+msgid "Merchant Code"
+msgstr ""
+
+#: label.minimum
+msgid "Minimum"
+msgstr "Tối thiểu"
+
+#: label.money
+msgctxt "label.money"
+msgid "Total"
+msgstr "Tổng"
+
+#: label.name
+msgctxt "label.name"
+msgid "Name"
+msgstr "Tên"
+
+#: Label.Name
+msgctxt "Label.Name"
+msgid "Name"
+msgstr "Tên"
+
+#: label.notes
+msgctxt "label.notes"
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: label.noticketstoclose
+msgid "No Bills to Close"
+msgstr "No Bills to Close"
+
+#: label.nullcategory
+msgid "(No Category)"
+msgstr "(Không danh mục)"
+
+#: label.order
+msgid "Order"
+msgstr "Thứ tự"
+
+#: Label.Password
+msgctxt "Label.Password"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: label.passwordnew
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+#: label.passwordold
+msgid "Old Password"
+msgstr "Mật khẩu hiện tại"
+
+#: label.passwordrepeat
+msgid "Repeat Password"
+msgstr "Nhập lại mật khẩu (mới)"
+
+#: Label.Payment
+msgctxt "Label.Payment"
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: label.paymentdate
+msgctxt "label.paymentdate"
+msgid "Date"
+msgstr "Ngày tháng"
+
+#: label.paymentgateway
+msgid "Payment Gateway"
+msgstr "Cổng thanh toán"
+
+#: label.paymentnote
+msgctxt "label.paymentnote"
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: label.paymentreason
+msgctxt "label.paymentreason"
+msgid "Reason"
+msgstr "Lý do"
+
+#: label.paymentstitle
+msgid "Payments Report"
+msgstr "Báo cáo thanh toán"
+
+#: label.paymenttestmode
+msgid "Test Mode"
+msgstr "Test mode"
+
+#: label.paymenttotal
+msgid "Amount"
+msgstr "Số tiền"
+
+#: label.peopleimage
+msgctxt "label.peopleimage"
+msgid "Image"
+msgstr "Ảnh"
+
+#: label.peoplename
+msgctxt "label.peoplename"
+msgid "Name"
+msgstr "Tên"
+
+#: label.peoplevisible
+msgctxt "label.peoplevisible"
+msgid "Visible"
+msgstr "Hiển thị"
+
+#: label.percent
+msgid "Percent"
+msgstr "Phần trăm"
+
+#: label.phone
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: label.phone2
+msgid "Mobile Phone"
+msgstr "ĐT Di động"
+
+#: label.placefloor
+msgctxt "label.placefloor"
+msgid "Floor"
+msgstr "Tầng"
+
+#: label.placeid
+msgctxt "label.placeid"
+msgid "ID"
+msgstr "ID"
+
+#: label.placename
+msgid "Place"
+msgstr "Place"
+
+#: label.placeposition
+msgid "Position"
+msgstr "Vị trí"
+
+#: label.postal
+msgid "Zip/PostCode"
+msgstr "Mã bưu điện (Zip)"
+
+#: label.price
+msgid "Price"
+msgstr "Giá"
+
+#: label.pricetax
+msgid "Price + Taxes"
+msgstr "Giá + Thuế"
+
+#: label.printtokitchen
+msgid "Print to Kitchen"
+msgstr "In cho nhà bếp"
+
+#: label.prodaux
+msgid "Auxiliaries"
+msgstr "Auxiliaries"
+
+#: label.prodbarcode
+msgid "Barcode"
+msgstr "Mã vạch"
+
+#: label.prodcategory
+msgctxt "label.prodcategory"
+msgid "Category"
+msgstr "Danh mục"
+
+#: label.prodcost
+msgid "Cost"
+msgstr "Chi phí"
+
+#: label.prodgeneral
+msgid "General"
+msgstr "Tổng quát"
+
+#: label.prodincatalog
+msgid "In Catalogue"
+msgstr "Trong danh mục"
+
+#: label.prodname
+msgctxt "label.prodname"
+msgid "Name"
+msgstr "Tên"
+
+#: label.prodorder
+#, fuzzy
+msgid "Order in Catalogue"
+msgstr "Thứ tự các cột trong hộp thoại"
+
+#: label.prodpricebuy
+msgid "Buy Price"
+msgstr "Giá mua"
+
+#: label.prodpricesell
+msgid "Sell Price"
+msgstr "Giá bán"
+
+#: label.prodpriceselltax
+msgid "Sell Price + Tax"
+msgstr "Giá bán + thuế"
+
+#: label.prodproperties
+msgctxt "label.prodproperties"
+msgid "Properties"
+msgstr "Thuộc tính"
+
+#: label.prodref
+msgid "Reference"
+msgstr "Reference"
+
+#: label.prodscale
+msgctxt "label.prodscale"
+msgid "Scale"
+msgstr "Tỷ lệ"
+
+#: label.prodstock
+msgctxt "label.prodstock"
+msgid "Stock"
+msgstr "Kho"
+
+#: label.prodstockcost
+msgid "Stock Cost by Year"
+msgstr "Chí phí lưu kho hàng năm"
+
+#: label.prodstockmax
+msgid "Maximum Level"
+msgstr "Mức cao nhất"
+
+#: label.prodstocksec
+msgid "Minimum Level"
+msgstr "Mức thấp nhất"
+
+#: label.prodstockvol
+msgid "Stock Volume"
+msgstr "Lượng hàng trong kho"
+
+#: label.produnits
+msgctxt "label.produnits"
+msgid "Units"
+msgstr "Số lượng"
+
+#: label.prodvaluebuy
+msgid "Buy Value"
+msgstr "Giá mua"
+
+#: label.prodvaluesell
+msgid "Sell Value"
+msgstr "Giá bán"
+
+#: label.prodvolume
+msgid "Volume"
+msgstr "Lượng (hàng hóa)"
+
+#: label.properties
+msgctxt "label.properties"
+msgid "Properties"
+msgstr "Properties"
+
+#: label.receiptprinter
+msgid "Receipt Printer"
+msgstr "Máy in phiếu tính tiền"
+
+#: label.recorddeleted
+msgid "(Record Deleted)"
+msgstr "(Ghi chú đã xóa)"
+
+#: label.recordeof
+msgid "(No Records)"
+msgstr "(Không có ghi chú)"
+
+#: label.recordnew
+msgid "(New Record)"
+msgstr "(Tạo ghi chú)"
+
+#: label.refunds
+msgctxt "label.refunds"
+msgid "Refunds"
+msgstr "Trả hàng"
+
+#: label.region
+msgid "State/County"
+msgstr "State/County"
+
+#: label.remainingcash
+msgid "Remaining"
+msgstr "Còn lại"
+
+#: label.reportsprinter
+msgid "Reports Printer"
+msgstr "Máy in báo cáo"
+
+#: label.resname
+msgid "Resource"
+msgstr "Resource"
+
+#: label.restaurantcustomer
+msgid "Receiving Customer {0}. Select an empty table."
+msgstr ""
+
+#: label.restaurantmove
+msgid "Moving table {0}. Select another Table or the original Table"
+msgstr "Moving table {0}. Select another Table or the original Table"
+
+#: label.role
+msgid "Role"
+msgstr "Role"
+
+#: label.sales
+msgctxt "label.sales"
+msgid "Sales"
+msgstr "Bán hàng"
+
+#: label.salestitle
+msgid "Sales Report"
+msgstr "Báo cáo bán hàng"
+
+#: label.scale
+msgctxt "label.scale"
+msgid "Scale"
+msgstr "Tỷ lệ"
+
+#: label.scaleinput
+msgid "Enter Weight"
+msgstr "Nhập khối lượng"
+
+#: label.scanner
+msgid "Scanner"
+msgstr "Scanner"
+
+#: label.search
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: label.searchkey
+msgid "Search Key"
+msgstr "Từ khóa tìm kiếm"
+
+#: label.sequence
+msgid "Sequence"
+msgstr "Sequence"
+
+#: label.sha
+msgid "SHA"
+msgstr "SHA"
+
+#: Label.StartDate
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: label.stockdate
+msgctxt "label.stockdate"
+msgid "Date"
+msgstr "Ngày tháng"
+
+#: label.stockproduct
+msgctxt "label.stockproduct"
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: label.stockreason
+msgctxt "label.stockreason"
+msgid "Reason"
+msgstr "Lý do"
+
+#: label.storename
+msgid "Store Name"
+msgstr "Tên cửa hàng"
+
+#: label.subtotalcash
+msgid "Subtotal"
+msgstr "Tổng trước thuế"
+
+#: label.table
+msgid "Table"
+msgstr "Bàn"
+
+#: label.tax
+msgctxt "label.tax"
+msgid "Taxes"
+msgstr "Thuế"
+
+#: label.taxcash
+msgctxt "label.taxcash"
+msgid "Taxes"
+msgstr "Thuế"
+
+#: label.taxcategory
+msgid "Tax Category"
+msgstr "Danh mục thuế"
+
+#: label.taxes
+msgctxt "label.taxes"
+msgid "Taxes"
+msgstr "Thuế"
+
+#: label.taxid
+msgid "Account ID"
+msgstr "Mã khách hàng"
+
+#: label.taxparent
+msgid "Parent Tax"
+msgstr "Parent Tax"
+
+#: label.terminal
+msgid "Terminal"
+msgstr "Terminal"
+
+#: label.ticketid
+msgid "Ticket #"
+msgstr "Ticket #"
+
+#: Label.Tickets
+#, fuzzy
+msgctxt "Label.Tickets"
+msgid "Payments"
+msgstr "Số tiền trả"
+
+#: Label.Ticketsbag
+msgctxt "Label.Ticketsbag"
+msgid "Tickets"
+msgstr ""
+
+#: label.time
+msgid "Time"
+msgstr "Thời gian"
+
+#: label.totalcash
+msgctxt "label.totalcash"
+msgid "Total"
+msgstr "Tổng"
+
+#: label.totaldiscount
+msgctxt "label.totaldiscount"
+msgid "Total Disc'"
+msgstr "Tổng số đĩa'"
+
+#: label.type
+msgid "Type"
+msgstr "Kiểu"
+
+#: label.units
+msgctxt "label.units"
+msgid "Units"
+msgstr "Số lượng"
+
+#: label.uploadingproducts
+msgid "Uploading Products. Please wait..."
+msgstr "Uploading Products. Please wait..."
+
+#: label.user
+msgctxt "label.user"
+msgid "User"
+msgstr "Người dùng"
+
+#: label.value
+msgid "Value"
+msgstr "Thành tiền"
+
+#: label.visible
+msgctxt "label.visible"
+msgid "Visible"
+msgstr "Hiển thị"
+
+#: label.warehouse
+msgctxt "label.warehouse"
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: Menu.Attributes
+msgid "Product Attributes"
+msgstr "Đặc điểm hàng hóa"
+
+#: Menu.AttributeSets
+msgid "Product Attribute Sets"
+msgstr "Thiết lập đặc điểm hàng hóa"
+
+#: Menu.AttributeUse
+msgid "Product Attribute use"
+msgstr "Product Attribute use"
+
+#: Menu.AttributeValues
+msgid "Attribute values"
+msgstr "Attribute values"
+
+#: Menu.Auxiliar
+msgid "Auxiliary products"
+msgstr "Auxiliary products"
+
+#: Menu.Backoffice
+msgid "Administration"
+msgstr "Administration"
+
+#: Menu.CashFlow
+msgid "Cash-Flow"
+msgstr "Luồng tiền"
+
+#: Menu.CashRegisterLog
+msgid "Transaction Log"
+msgstr "Transaction Log"
+
+#: Menu.CategorySales
+msgid "Category Sales"
+msgstr "Category Sales"
+
+#: Menu.Catalog
+msgid "Catalogue"
+msgstr "Danh mục"
+
+#: Menu.Categories
+msgid "Categories"
+msgstr "Danh mục"
+
+#: Menu.CategoryProductSalesChart
+msgid "Category Sales Chart"
+msgstr "Category Sales Chart"
+
+#: Menu.ChangePassword
+msgctxt "Menu.ChangePassword"
+msgid "Change Password"
+msgstr "Đổi mật khẩu"
+
+#: Menu.ClosedProducts
+msgctxt "Menu.ClosedProducts"
+msgid "Product Sales"
+msgstr "Product Sales"
+
+#: Menu.CloseTPV
+msgctxt "Menu.CloseTPV"
+msgid "Close Cash"
+msgstr "Đóng quầy"
+
+#: Menu.Closing
+msgid "Cash Closed"
+msgstr "Đã đóng quầy"
+
+#: Menu.Configuration
+msgid "Configuration"
+msgstr "Cấu hình"
+
+#: Menu.Customers
+msgctxt "Menu.Customers"
+msgid "Customers"
+msgstr "Khách hàng"
+
+#: Menu.Customers.Reports
+msgctxt "Menu.Customers.Reports"
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: Menu.CustomersBReport
+msgid "Debtors"
+msgstr "Khách hàng có nợ"
+
+#: Menu.CustomersDiary
+msgid "Customers Diary"
+msgstr "Khách hàng theo ngày"
+
+#: Menu.CustomersManagement
+msgctxt "Menu.CustomersManagement"
+msgid "Customers"
+msgstr "Khách hàng"
+
+#: Menu.CustomersPayment
+msgid "Customer Payment"
+msgstr "Customer Payment"
+
+#: Menu.CustomersReport
+msgctxt "Menu.CustomersReport"
+msgid "Customers"
+msgstr "Khách hàng"
+
+#: Menu.ERPOrders
+msgid "ERP Order Synchronisation"
+msgstr "ERP Order Synchronisation"
+
+#: Menu.ERPProducts
+msgid "POS Synchronisation"
+msgstr "POS Synchronisation"
+
+#: Menu.Exit
+msgid "Logout"
+msgstr "Thoát"
+
+#: Menu.ExtendedByProducts
+msgid "Extended Product Sales"
+msgstr "Extended Product Sales"
+
+#: Menu.ExtendedCashRegisterLog
+msgid "Extended Transaction Log"
+msgstr "Extended Transaction Log"
+
+#: Menu.ExtendedSales
+msgid "Extended Sales"
+msgstr "Extended Sales"
+
+#: Menu.Floors
+msgid "Floors"
+msgstr "Tầng"
+
+#: Menu.Inventory
+msgid "Inventory"
+msgstr "Kiểm kê"
+
+#: Menu.Inventory2
+msgid "Current Inventory"
+msgstr "Kiểm kê"
+
+#: Menu.InventoryBroken
+msgid "Inventory: Broken"
+msgstr "Kiểm kê: Hư"
+
+#: Menu.InventoryDiff
+msgid "Inventory: Difference"
+msgstr "Kiểm kê: Sai lệch"
+
+#: Menu.InventoryDiffDetail
+msgid "Inventory: Difference Detail"
+msgstr "Kiểm kê: Sai lệch chi tiết"
+
+#: Menu.InventoryListDetail
+msgid "Inventory: List Detail"
+msgstr "Kiểm kê: Liệt kê chi tiết"
+
+#: Menu.Locations
+msgid "Locations"
+msgstr "Địa điểm"
+
+#: Menu.Main
+msgid "Main"
+msgstr "Trang chủ"
+
+#: Menu.Maintenance
+msgctxt "Menu.Maintenance"
+msgid "Maintenance"
+msgstr "Bảo trì"
+
+#: Menu.Maintenance.ERP
+msgid "Openbravo ERP"
+msgstr "Openbravo ERP"
+
+#: Menu.Maintenance.POS
+msgid "Point Of Sale"
+msgstr "Quầy bán hàng"
+
+#: Menu.Maintenance.Reports
+msgctxt "Menu.Maintenance.Reports"
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: Menu.PaymentReport
+#, fuzzy
+msgctxt "Menu.PaymentReport"
+msgid "Payments"
+msgstr "Số tiền trả"
+
+#: Menu.Payments
+msgctxt "Menu.Payments"
+msgid "Payments"
+msgstr "Thu/Chi"
+
+#: Menu.Printer
+msgid "Printers"
+msgstr "Máy in"
+
+#: Menu.ProductLabels
+msgid "Product Labels"
+msgstr "Nhãn hàng hóa"
+
+#: Menu.Products
+msgid "Products"
+msgstr "Hàng hóa"
+
+#: Menu.ProductSales
+msgctxt "Menu.ProductSales"
+msgid "Product Sales"
+msgstr "Doanh số hàng hóa"
+
+#: Menu.ProductsWarehouse
+msgid "Product Location"
+msgstr "Vị trí hàng hóa"
+
+#: Menu.Reports
+msgctxt "Menu.Reports"
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: Menu.ReportTaxes
+msgid "Tax Summary"
+msgstr "Tổng thuế"
+
+#: Menu.Resources
+msgid "Resources"
+msgstr "Resources"
+
+#: Menu.Roles
+msgid "Roles"
+msgstr "Roles"
+
+#: Menu.SalesByCustomer
+msgid "Sales By Customer"
+msgstr "Doanh số theo khách hàng"
+
+#: Menu.SalesChart
+msgid "Sales Chart"
+msgstr "Biểu đồ bán hàng"
+
+#: Menu.SalesManagement
+msgctxt "Menu.SalesManagement"
+msgid "Sales"
+msgstr "Bán hàng"
+
+#: Menu.SalesManagement.Reports
+msgctxt "Menu.SalesManagement.Reports"
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: Menu.SalesProfit
+msgid "Product Sales Profit"
+msgstr "Lợi nhuận theo sản phẩm"
+
+#: Menu.SaleTaxes
+msgid "Sales Taxes"
+msgstr "Thuế bán hàng"
+
+#: Menu.StockDiary
+msgid "Stock Diary"
+msgstr "Stock Diary"
+
+#: Menu.StockManagement
+msgctxt "Menu.StockManagement"
+msgid "Stock"
+msgstr "Kho"
+
+#: Menu.StockManagement.Edit
+msgctxt "Menu.StockManagement.Edit"
+msgid "Maintenance"
+msgstr "Bảo trì"
+
+#: Menu.StockManagement.Reports
+msgctxt "Menu.StockManagement.Reports"
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: Menu.StockMovement
+msgid "Stock Maintenance"
+msgstr "Quản lý tồn kho"
+
+#: Menu.System
+msgid "System"
+msgstr "Hệ thống"
+
+#: Menu.Tables
+msgctxt "Menu.Tables"
+msgid "Tables"
+msgstr "Bàn"
+
+#: Menu.Taxes
+msgctxt "Menu.Taxes"
+msgid "Taxes"
+msgstr "Thuế"
+
+#: Menu.TaxCustCategories
+msgid "Customer Tax Categories"
+msgstr "Customer Tax Categories"
+
+#: Menu.TaxCategories
+msgid "Tax Categories"
+msgstr "Danh mục thuế"
+
+#: Menu.ThirdParties
+msgid "Suppliers"
+msgstr "Nguồn cung ứng"
+
+#: Menu.ThirdPartiesManagement
+msgid "Supplier Management"
+msgstr "Quản lý nguồn cung ứng"
+
+#: Menu.Ticket
+msgctxt "Menu.Ticket"
+msgid "Sales"
+msgstr "Bán hàng"
+
+#: Menu.TicketEdit
+msgid "Edit Sales"
+msgstr "Sửa đơn hàng"
+
+#: Menu.TicketRefund
+msgctxt "Menu.TicketRefund"
+msgid "Refunds"
+msgstr ""
+
+#: Menu.Top10Sales
+msgid "Top 10 Sales"
+msgstr "Top 10 Sales"
+
+#: Menu.Users
+msgctxt "Menu.Users"
+msgid "Users"
+msgstr "Users"
+
+#: Menu.UsersReport
+msgctxt "Menu.UsersReport"
+msgid "Users"
+msgstr "Users"
+
+#: Menu.UserSells
+msgid "Sales by User"
+msgstr "Sales by User"
+
+#: message.BadPassword
+msgid "Invalid Password. Please Retry"
+msgstr "Mật khẩu sai. Thử lại."
+
+#: message.cannotcalculatetaxes
+msgid ""
+"Unable to calculate Receipt taxes.\n"
+"One or more Products Taxes is not configured properly"
+msgstr ""
+
+#: message.cannotchangepassword
+msgid "Cannot change Password"
+msgstr "Không thể đổi mật khẩu"
+
+#: message.cannotclosecash
+msgid "Cannot Close Cash"
+msgstr "Không thể đóng quầy"
+
+#: message.cannotdeleteconfig
+msgid "Config' file cannot be Deleted"
+msgstr "Không thể xóa tập tin cấu hình"
+
+#: message.cannotexecute
+msgid "Unable to execute action"
+msgstr "Không thể thực thi tác vụ"
+
+#: message.cannotfillchart
+msgid "Unable to Load Chart Data"
+msgstr "Không thể nạp dữ liệu vẽ biểu đồ"
+
+#: message.cannotfillreport
+msgid "Unable to load Report Data"
+msgstr "Không thể nạp dữ liệu lập báo cáo"
+
+#: message.cannotfindattributes
+msgid "No Attributes set for this Product"
+msgstr ""
+
+#: message.cannotfindcustomer
+msgid "Cannot find Customer data"
+msgstr "Không tìm thấy thông tin khách hàng"
+
+#: message.cannotloadlists
+#, fuzzy
+msgid "Cannot load list data"
+msgstr "Không thể nạp dữ liệu báo cáo."
+
+#: message.cannotloadreport
+#, fuzzy
+msgid "Unable to Load Report Definition"
+msgstr "Không thể nạp « Debconf::Element::%s ». Thất bại vì: %s."
+
+#: message.cannotloadreportdata
+#, fuzzy
+msgid "Unable to Load Report Data"
+msgstr "Không thể nạp dữ liệu lập báo cáo"
+
+#: message.cannotloadresourcedata
+#, fuzzy
+msgid "Unable to Load Report Resources"
+msgstr "Không thể nạp « Debconf::Element::%s ». Thất bại vì: %s."
+
+#: message.cannotloadticket
+#, fuzzy
+msgid "Unable to load the receipt"
+msgstr "Không thể tải tập tin '%s': %s."
+
+#: message.CannotMove
+#, fuzzy
+msgid "Unable to Move to Record"
+msgstr "Dịch chuyển vùng xuống dưới"
+
+#: message.cannotprint
+msgid "Unable to Print"
+msgstr "Không thể in"
+
+#: message.cannotprintline
+#, fuzzy
+msgid "Unable to Print Line"
+msgstr "%s để di chuyển cả đường này"
+
+#: message.cannotprintticket
+#, fuzzy
+msgid "Unable to Print Receipt"
+msgstr "Không thể chấp nhận kết nối"
+
+#: message.cannotsaveconfig
+#, fuzzy
+msgid "Unable to Save Config' file"
+msgstr ""
+"%s: không thể lấy trạng thái về tập tin cấu hình « %s »\n"
+" (= '%s'): %s"
+
+#: message.cannotsaveinventorydata
+msgid "Unable to save Inventory data"
+msgstr "Không thể lưu dữ liệu kiểm kê"
+
+#: message.cardnew
+msgid "Card value will change. Do you want to continue?"
+msgstr ""
+
+#: message.cardremove
+msgid "Card value will be removed. Do you want to continue?"
+msgstr ""
+
+#: message.changepassworddistinct
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+#: message.changeserver
+msgid "Change current Server is in Development"
+msgstr ""
+
+#: message.closecashok
+msgid "Cash Closed OK"
+msgstr "Đóng quầy thành công"
+
+#: message.configfactory
+msgid "Are you sure you want to Restore Factory Values?"
+msgstr ""
+
+#: message.configrestore
+#, fuzzy
+msgid "Are you sure you want to Undo Changes?"
+msgstr "Bạn có chắc muốn làm như thế không?"
+
+#: message.createdatabase
+msgid "<html>A working database cannot be detected. A default database will be created.<br>Do you want to continue?"
+msgstr ""
+
+#: message.customerdebtexceded
+msgid "Customer Credit Limit exceeded"
+msgstr ""
+"Đơn hàng vượt quá giới hạn ghi nợ.\n"
+"Đề nghị thanh toán bằng tiền mặt."
+
+#: message.databaseconnectionerror
+msgid "Unable to connect to database: Database not available"
+msgstr "Unable to connect to database: Database not available"
+
+#: message.databasedrivererror
+msgid "Unable to connect to database: Database driver not found"
+msgstr "Unable to connect to database: Database driver not found"
+
+#: message.databasenotsupported
+#, fuzzy
+msgid "Database \"{0}\" not supported"
+msgstr "Database \"{0}\" not supported."
+
+#: message.mergetable
+msgid "Merge Tables"
+msgstr "Nhập bàn lại với nhau"
+
+#: message.mergetablequestion
+msgid "Are you sure you want to Merge Tables?"
+msgstr "Bạn có chắc muốn làm như thế không?"
+
+#: message.nocard
+msgid "User Card not found. Please Retry"
+msgstr "User Card not found. Please Retry"
+
+#: message.nocardreader
+msgid "Card Reader is not configured"
+msgstr "Chưa cài đặt đầu đọc thẻ"
+
+#: message.nocustomer
+msgid "Customer with this code does not exists"
+msgstr "Mã khách hàng không tồn tại"
+
+#: message.nocustomernodebt
+msgid ""
+"This Receipt is not assigned.\n"
+"It cannot be paid - Debt."
+msgstr ""
+"Chưa xác định khách hàng thân thiết.\n"
+"Không thể ghi nợ cho phiếu tính tiền này."
+
+#: message.nopaymentgateway
+msgid "Payment Gateway is not configured"
+msgstr "Chưa cài đặt cổng thanh toán"
+
+#: message.noprinters
+msgid "No Printers installed"
+msgstr "Chưa cài đặt máy in"
+
+#: message.noproduct
+msgid "Product with this Code does not exist"
+msgstr "Mã hàng không tồn tại"
+
+#: message.nosaveticket
+#, fuzzy
+msgid "Unable to Save Sales Ticket"
+msgstr "VLC không thể lưu các thông tin bổ sung"
+
+#: message.notactive
+#, fuzzy
+msgid "Panel Load Error"
+msgstr "Lỗi tải mô-đun « %s »: %s"
+
+#: message.notexiststicket
+msgid "Receipt does not exist"
+msgstr "Phiếu tính tiền không tồn tại"
+
+#: message.noticket
+msgid "Receipt no longer exists"
+msgstr "Phiếu tính tiền không còn tồn tại"
+
+#: message.notpermissions
+msgid "You are not allowed to Execute this task"
+msgstr "Bạn không được phép thực hiện tác vụ này"
+
+#: message.noupdatescript
+msgid "<html>A database from a previous version has been detected but it is not possible to upgrade the database automatically.<br>uniCenta oPOS will exit now."
+msgstr ""
+
+#: message.noweight
+#, fuzzy
+msgid "Weighing has not been possible"
+msgstr "<%s> chưa định nghĩa tọa độ « %s »"
+
+#: message.paymentcashneg
+msgid "Make the Refund. Then press OK"
+msgstr "Trả hàng. Sau đó nhân 'OK'"
+
+#: message.paymenterror
+#, fuzzy
+msgid "Payment Transaction Error!"
+msgstr "Transaction error unknown."
+
+#: message.paymenterrorunknown
+#, fuzzy
+msgid "Unknown Payment Transaction Error!"
+msgstr "Gặp lỗi không rõ khi thực hiện gpgv"
+
+#: message.paymentexceptionremote
+msgid "Remote Payment Error!"
+msgstr "Lỗi thanh toán từ xa"
+
+#: message.paymentexceptionservice
+#, fuzzy
+msgid "Payment Service exception Error!"
+msgstr "Gặp lỗi khi đọc thông tin dịch vụ."
+
+#: message.paymentfree
+msgctxt "message.paymentfree"
+msgid "Free"
+msgstr "Miễn phí"
+
+#: message.paymentgatewayext
+msgid "Make the Card Payment then press OK"
+msgstr "Quét thẻ rồi nhấn 'OK'"
+
+#: message.paymentgatewayextrefund
+msgid "Make the Card Refund then press OK"
+msgstr "Quét thẻ rồi nhấn 'OK'"
+
+#: message.paymentgatewayswipe
+msgid "Swipe the Card then press OK"
+msgstr "Quét thẻ rồi nhấn 'OK'"
+
+#: message.paymentgatewaytype
+msgid "Type the Card details then press OK"
+msgstr "Nhập thông tin thể rồi nhấn 'OK'"
+
+#: message.paymentnotauthorised
+#, fuzzy
+msgid "Transaction Not Authorised"
+msgstr "Giao dịch hiện thời chưa được cân bằng."
+
+#: message.paymentrefundsnotsupported
+#, fuzzy
+msgid "Refunds not supported"
+msgstr "Lệnh không được hỗ trợ"
+
+#: message.preparescanner
+msgid "Prepare the ScanPal scanner to upload the Product List then press OK"
+msgstr ""
+
+#: message.printererror
+#, fuzzy
+msgid "Unable to print Receipt"
+msgstr "Không thể chấp nhận kết nối"
+
+#: message.productnotselected
+#, fuzzy
+msgid "No Product selected"
+msgstr "Chưa chọn tài khoản"
+
+#: message.restartchanges
+msgid "Configuration Saved successfully. Changes will be applied on next system Restart"
+msgstr ""
+
+#: message.scannerfail
+#, fuzzy
+msgid "Product List Upload failed"
+msgstr "Việc đọc tập tin danh sách %sinfo/%s bị lỗi"
+
+#: message.scannerfail2
+#, fuzzy
+msgid "Product List Download failed"
+msgstr "Một số tập tin không tải về được"
+
+#: message.scannerok
+msgid "Product List Upload successful"
+msgstr ""
+
+#: message.tableempty
+msgid "Table is now empty"
+msgstr "Bàn đang trống"
+
+#: message.tablefull
+msgid "Table is now full"
+msgstr "Bàn đã đầy"
+
+#: message.title
+#, fuzzy
+msgid "Cash Register message"
+msgstr "&Vị trí của nhật ký:"
+
+#: message.updatedatabase
+msgid "<html>A database from a previous version has been detected. The database will be upgraded automatically.<br>DATA MAY BE LOST. FIRST CREATE A BACKUP.<br>Do you want to continue?"
+msgstr ""
+
+#: message.wannaclosecash
+msgid "Are you sure you want to Close Cash?"
+msgstr "Xác nhận đóng quầy?"
+
+#: message.wannadelete
+msgid "Are you sure you want to Delete the current Order?"
+msgstr "Bạn có chắc muốn hủy đặt hàng này không?"
+
+#: message.wannasave
+msgid "Save changes before exit?"
+msgstr "Lưu các thay đổi trước khi thoát?"
+
+#: payment.title
+msgctxt "payment.title"
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: Printer.Null
+msgid "Printer Not Available"
+msgstr "Không có máy in"
+
+#: Printer.Screen
+msgid "Screen Printer"
+msgstr "Screen Printer"
+
+#: Printer.Serial
+msgid "Ticket Printer"
+msgstr ""
+
+#: resource.binary
+msgid "Binary"
+msgstr "Nhị phân"
+
+#: resource.image
+msgctxt "resource.image"
+msgid "Image"
+msgstr "Ảnh"
+
+#: resource.text
+#, fuzzy
+msgid "Text"
+msgstr "Văn bản"
+
+#: rest.label.chairs
+msgid "Chairs"
+msgstr "Ghế"
+
+#: rest.label.customer
+msgctxt "rest.label.customer"
+msgid "Customer"
+msgstr "Khách"
+
+#: rest.label.date
+msgid "Booking"
+msgstr "Đặt chổ"
+
+#: rest.label.notes
+msgctxt "rest.label.notes"
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: scale.notdefined
+msgid "Scale not Defined"
+msgstr ""
+
+#: scale.invalidvalue
+msgid "Scale invalid value"
+msgstr ""
+
+#: stock.in.movement
+msgid "(In) Movement"
+msgstr ""
+
+#: stock.in.purchase
+msgid "(In) Purchase"
+msgstr ""
+
+#: stock.in.refund
+msgid "(In) Refund"
+msgstr ""
+
+#: stock.out.break
+msgid "(Out) Breakage"
+msgstr ""
+
+#: stock.out.crossing
+msgid "Crossing"
+msgstr ""
+
+#: stock.out.movement
+msgid "(Out) Movement"
+msgstr ""
+
+#: stock.out.refund
+msgid "(Out) Refund"
+msgstr ""
+
+#: stock.out.sale
+msgid "(Out) Sale"
+msgstr ""
+
+#: tab.bank
+msgctxt "tab.bank"
+msgid "Bank"
+msgstr "Ngân hàng"
+
+#: tab.cash
+msgctxt "tab.cash"
+msgid "Cash"
+msgstr "Tiền mặt"
+
+#: tab.cashrefund
+msgctxt "tab.cashrefund"
+msgid "Refund"
+msgstr "Trả hàng"
+
+#: tab.cheque
+#, fuzzy
+msgctxt "tab.cheque"
+msgid "Cheque"
+msgstr "Chi phiếu"
+
+#: tab.chequerefund
+msgctxt "tab.chequerefund"
+msgid "Cheque"
+msgstr "Chi phiếu"
+
+#: tab.free
+msgctxt "tab.free"
+msgid "Free"
+msgstr "Miễn phí"
+
+#: tab.magcard
+msgctxt "tab.magcard"
+msgid "Card"
+msgstr "Thẻ tín dụng"
+
+#: tab.paper
+msgid "Voucher"
+msgstr "Phiếu giảm giá"
+
+#: tab.debt
+msgctxt "tab.debt"
+msgid "Debt"
+msgstr "Ghi nợ"
+
+#: title.changepassword
+msgctxt "title.changepassword"
+msgid "Change Password"
+msgstr "Đổi mật khẩu"
+
+#: title.editor
+msgid "Info' message"
+msgstr "Thông báo"
+
+#: transpayment.bank
+msgctxt "transpayment.bank"
+msgid "Bank"
+msgstr "Ngân hàng"
+
+#: transpayment.cash
+msgctxt "transpayment.cash"
+msgid "Cash"
+msgstr "Tiền mặt"
+
+#: transpayment.cashin
+msgid "(In) Cash"
+msgstr "(Thu) Tiền mặt"
+
+#: transpayment.cashout
+msgid "(Out) Cash"
+msgstr "(Chi) Tiền mặt"
+
+#: transpayment.cashrefund
+msgctxt "transpayment.cashrefund"
+msgid "Refund"
+msgstr "Trả hàng"
+
+#: transpayment.cheque
+msgctxt "transpayment.cheque"
+msgid "Cheque"
+msgstr "Chi phiếu"
+
+#: transpayment.chequerefund
+msgid "Cheque Refund"
+msgstr ""
+
+#: transpayment.free
+msgctxt "transpayment.free"
+msgid "Free"
+msgstr "Miễn phí"
+
+#: transpayment.magcard
+msgctxt "transpayment.magcard"
+msgid "Card"
+msgstr "Thẻ"
+
+#: transpayment.magcardrefund
+msgid "Card Refund"
+msgstr ""
+
+#: transpayment.paperin
+msgid "Note Input"
+msgstr ""
+
+#: transpayment.paperout
+msgid "Note Output"
+msgstr ""
+
+#: transpayment.debt
+msgctxt "transpayment.debt"
+msgid "Debt"
+msgstr "Dư nợ"
+
+#: transpayment.debtpaid
+msgid "Debt Paid"
+msgstr "Thanh toán dư nợ"
+
+#: Visor.Title
+msgid "uniCenta oPOS"
+msgstr ""
+

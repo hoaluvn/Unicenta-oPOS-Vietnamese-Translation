@@ -1,0 +1,274 @@
+#. #    uniCenta oPOS - Touch Friendly Point Of Sale
+#. # Copyright (c) 2009-2011 uniCenta
+#. #
+#. # This file is part of uniCenta oPOS
+#. #
+#. # uniCenta oPOS is free software: you can redistribute it and/or modify
+#. # it under the terms of the GNU General Public License as published by
+#. # the Free Software Foundation, either version 3 of the License, or
+#. # (at your option) any later version.
+#. # uniCenta oPOS is distributed in the hope that it will be useful,
+#. # but WITHOUT ANY WARRANTY; without even the implied warranty of
+#. # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#. # GNU General Public License for more details.
+#. # You should have received a copy of the GNU General Public License
+#. # along with uniCenta oPOS.  If not, see <http://www.gnu.org/licenses/>.
+#. extracted from locales/data_messages.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-06 11:10+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: button.cancel
+msgid "Cancel"
+msgstr ""
+
+#: button.information
+msgid "Information"
+msgstr ""
+
+#: button.ok
+msgid "OK"
+msgstr ""
+
+#: caption.sort
+msgid "Sort"
+msgstr ""
+
+#: exception.iofile
+msgid "Error reading file."
+msgstr ""
+
+#: exception.nocompare
+msgid "Expected comparator for QBF."
+msgstr ""
+
+#: exception.nodataset
+msgid "Data set not defined."
+msgstr ""
+
+#: exception.nofinishedfile
+msgid "Sentences file not finished."
+msgstr ""
+
+#: exception.nodelete
+msgid "No records deleted."
+msgstr ""
+
+#: exception.noinsert
+msgid "No records created."
+msgstr ""
+
+#: exception.nonegativelimits
+msgid "Negative limits not allowed."
+msgstr ""
+
+#: exception.noparamtype
+msgid "Parameter type not allowed."
+msgstr ""
+
+#: exception.noreadfile
+msgid "Error reading sentences file."
+msgstr ""
+
+#: exception.notnull
+msgid "The value must be not null."
+msgstr ""
+
+#: exception.noupdate
+msgid "No records updated."
+msgstr ""
+
+#: exception.noupdatecount
+msgid "Update count not defined."
+msgstr ""
+
+#: exception.outofbounds
+msgid "Out of bounds."
+msgstr ""
+
+#: exception.parserconfig
+msgid "XML analyzer error. Please contact the Administrator."
+msgstr ""
+
+#: exception.xmlfile
+msgid "Analysis error. Invalid XML file."
+msgstr ""
+
+#: label.andby
+msgid "And by"
+msgstr ""
+
+#: label.casesensitive
+msgid "Case sensitive"
+msgstr ""
+
+#: label.findwhat
+msgid "Find what"
+msgstr ""
+
+#: label.imagefiles
+msgid "Image files"
+msgstr ""
+
+#: label.match
+msgid "Match"
+msgstr ""
+
+#: label.sortby
+msgid "Sort by"
+msgstr ""
+
+#: label.where
+msgid "Where"
+msgstr ""
+
+#: list.anypart
+msgid "Any part of the field"
+msgstr ""
+
+#: list.re
+msgid "Regular expression"
+msgstr ""
+
+#: list.startfield
+msgid "Start field"
+msgstr ""
+
+#: list.wholefield
+msgid "Whole field"
+msgstr ""
+
+#: qbf.none
+msgid "None"
+msgstr ""
+
+#: qbf.null
+msgid "Is null"
+msgstr ""
+
+#: qbf.notnull
+msgid "Is not null"
+msgstr ""
+
+#: qbf.equals
+msgid "Equals"
+msgstr ""
+
+#: qbf.distinct
+msgid "Distinct"
+msgstr ""
+
+#: qbf.greater
+msgid "Greater"
+msgstr ""
+
+#: qbf.less
+msgid "Less"
+msgstr ""
+
+#: qbf.greaterequals
+msgid "Greater or equal"
+msgstr ""
+
+#: qbf.lessequals
+msgid "Less or equals"
+msgstr ""
+
+#: qbf.re
+msgid "Wildcards"
+msgstr ""
+
+#: message.changeslost
+msgid "The changes will be lost. Do you want to continue?"
+msgstr ""
+
+#: message.nodelete
+msgid "Cannot mark the record for deleting."
+msgstr ""
+
+#: message.nolistdata
+msgid "Cannot find in data list."
+msgstr ""
+
+#: message.nomove
+msgid "Cannot move to other record."
+msgstr ""
+
+#: message.nonew
+msgid "Cannot create a new record."
+msgstr ""
+
+#: message.norecord
+msgid "Record not found."
+msgstr ""
+
+#: message.noreload
+msgid "Cannot reload data list."
+msgstr ""
+
+#: message.nosave
+msgid "Record not saved."
+msgstr ""
+
+#: message.nosort
+msgid "The sort condition defined is not valid"
+msgstr ""
+
+#: message.resizeimage
+msgid ""
+"The selected image is larger than the accurate size for this field. Do you "
+"want to resize the image?"
+msgstr ""
+
+#: message.wannasave
+msgid "Do you want to save the changes before exit?"
+msgstr ""
+
+#: sgn.caution
+msgid "Caution:"
+msgstr ""
+
+#: sgn.danger
+msgid "Danger: "
+msgstr ""
+
+#: sgn.notice
+msgid "Notice: "
+msgstr ""
+
+#: sgn.important
+msgid "Important:"
+msgstr ""
+
+#: sgn.success
+msgid "Success: "
+msgstr ""
+
+#: sgn.unknown
+msgid "Unknown: "
+msgstr ""
+
+#: sgn.warning
+msgid "Warning:"
+msgstr ""
+
+#: title.editor
+msgid "Editor message"
+msgstr ""
+
+#: title.find
+msgid "Find"
+msgstr ""
+
+#: title.message
+msgid "Database manager message"
+msgstr ""
