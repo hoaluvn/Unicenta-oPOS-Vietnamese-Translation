@@ -30,7 +30,7 @@ msgstr "Làm lại"
 
 #: Button.Close
 msgid "Exit"
-msgstr "Thoát"
+msgstr "Exit"
 
 #: Button.CloseCash
 msgctxt "Button.CloseCash"
