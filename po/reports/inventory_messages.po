@@ -1,29 +1,10 @@
-#. #    uniCenta oPOS - touch friendly EPoS
-#. #    Copyright (c) 2009 uniCenta oPOS
-#. #    http://www.unicenta.net/projects/unicentaopos
-#. #
-#. #    This file is part of uniCenta oPOS.
-#. #
-#. #    uniCenta oPOS is free software: you can redistribute it and/or modify
-#. #    it under the terms of the GNU General Public License as published by
-#. #    the Free Software Foundation, either version 3 of the License, or
-#. #    (at your option) any later version.
-#. #
-#. #    uniCenta oPOS is distributed in the hope that it will be useful,
-#. #    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#. #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#. #    GNU General Public License for more details.
-#. #
-#. #    You should have received a copy of the GNU General Public License
-#. #    along with uniCenta oPOS.  If not, see <http://www.gnu.org/licenses/>.
-#. extracted from reports/inventory_messages.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-06 11:12+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-09-10 10:49+0700\n"
+"Last-Translator: Hoa T. Lu <hoalu.vn@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,19 +13,19 @@ msgstr ""
 
 #: label.title
 msgid "Inventory: Location and Category"
-msgstr ""
+msgstr "Thống kê: Danh mục hàng hóa"
 
 #: label.printed
 msgid "Printed"
-msgstr ""
+msgstr "Bản in"
 
 #: label.ref
 msgid "Ref."
-msgstr ""
+msgstr "Mã hàng"
 
 #: label.name
 msgid "Name"
-msgstr ""
+msgstr "Nhãn hàng"
 
 #: label.sec
 msgid "Minimum"
@@ -56,11 +37,11 @@ msgstr ""
 
 #: label.valuebuy
 msgid "Cost Value"
-msgstr ""
+msgstr "Giá mua"
 
 #: label.valuesell
 msgid "Retail Value"
-msgstr ""
+msgstr "Giá bán"
 
 #: label.valuevolume
 msgid "Volume"
@@ -68,8 +49,9 @@ msgstr ""
 
 #: label.valuecost
 msgid "Cost"
-msgstr ""
+msgstr "Chi phí bảo quản"
 
 #: label.max
 msgid "Maximum"
 msgstr ""
+

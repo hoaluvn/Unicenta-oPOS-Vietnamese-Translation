@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-06 11:10+0700\n"
-"PO-Revision-Date: 2012-09-07 16:26+0700\n"
+"PO-Revision-Date: 2012-09-10 17:24+0700\n"
 "Last-Translator: Hoa T. Lu <hoalu.vn@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -92,7 +92,7 @@ msgstr "Ngăn kéo"
 
 #: button.pay
 msgid "Pay"
-msgstr "Thanh toán"
+msgstr "Trả"
 
 #: button.peoplepassword
 msgctxt "button.peoplepassword"
@@ -116,7 +116,7 @@ msgstr "Nhận"
 #: button.refund
 msgctxt "button.refund"
 msgid "Refund"
-msgstr "Trả hàng"
+msgstr "Trả"
 
 #: button.refundall
 msgid "Refund All"
@@ -822,7 +822,7 @@ msgstr "Thuộc tính"
 
 #: label.prodref
 msgid "Reference"
-msgstr "Reference"
+msgstr "Mã"
 
 #: label.prodscale
 msgctxt "label.prodscale"
@@ -836,7 +836,7 @@ msgstr "Kho"
 
 #: label.prodstockcost
 msgid "Stock Cost by Year"
-msgstr "Chí phí lưu kho hàng năm"
+msgstr "Phí lưu kho"
 
 #: label.prodstockmax
 msgid "Maximum Level"
@@ -848,7 +848,7 @@ msgstr "Mức thấp nhất"
 
 #: label.prodstockvol
 msgid "Stock Volume"
-msgstr "Lượng hàng trong kho"
+msgstr "Lượng tồn kho"
 
 #: label.produnits
 msgctxt "label.produnits"
@@ -870,7 +870,7 @@ msgstr "Lượng (hàng hóa)"
 #: label.properties
 msgctxt "label.properties"
 msgid "Properties"
-msgstr "Properties"
+msgstr "Đặc điểm"
 
 #: label.receiptprinter
 msgid "Receipt Printer"
@@ -878,15 +878,15 @@ msgstr "Máy in phiếu tính tiền"
 
 #: label.recorddeleted
 msgid "(Record Deleted)"
-msgstr "(Ghi chú đã xóa)"
+msgstr ""
 
 #: label.recordeof
 msgid "(No Records)"
-msgstr "(Không có ghi chú)"
+msgstr ""
 
 #: label.recordnew
 msgid "(New Record)"
-msgstr "(Tạo ghi chú)"
+msgstr "(Thêm record)"
 
 #: label.refunds
 msgctxt "label.refunds"
@@ -945,7 +945,7 @@ msgstr "Scanner"
 
 #: label.search
 msgid "Search"
-msgstr "Tìm kiếm"
+msgstr "Tìm"
 
 #: label.searchkey
 msgid "Search Key"
@@ -984,7 +984,7 @@ msgstr "Tên cửa hàng"
 
 #: label.subtotalcash
 msgid "Subtotal"
-msgstr "Tổng trước thuế"
+msgstr "Trước thuế"
 
 #: label.table
 msgid "Table"
@@ -1026,10 +1026,9 @@ msgid "Ticket #"
 msgstr "Ticket #"
 
 #: Label.Tickets
-#, fuzzy
 msgctxt "Label.Tickets"
 msgid "Payments"
-msgstr "Số tiền trả"
+msgstr "Chi trả"
 
 #: Label.Ticketsbag
 msgctxt "Label.Ticketsbag"
@@ -1147,7 +1146,7 @@ msgstr "Đóng quầy"
 
 #: Menu.Closing
 msgid "Cash Closed"
-msgstr "Đã đóng quầy"
+msgstr "Báo cáo kết sổ"
 
 #: Menu.Configuration
 msgid "Configuration"
@@ -1165,7 +1164,7 @@ msgstr "Báo cáo"
 
 #: Menu.CustomersBReport
 msgid "Debtors"
-msgstr "Khách hàng có nợ"
+msgstr "Khách hàng còn dư nợ"
 
 #: Menu.CustomersDiary
 msgid "Customers Diary"
@@ -1215,27 +1214,27 @@ msgstr "Tầng"
 
 #: Menu.Inventory
 msgid "Inventory"
-msgstr "Kiểm kê"
+msgstr "Tồn kho"
 
 #: Menu.Inventory2
 msgid "Current Inventory"
-msgstr "Kiểm kê"
+msgstr "Tồn kho hiện tại"
 
 #: Menu.InventoryBroken
 msgid "Inventory: Broken"
-msgstr "Kiểm kê: Hư"
+msgstr "Tồn kho: Hàng bị lỗi"
 
 #: Menu.InventoryDiff
 msgid "Inventory: Difference"
-msgstr "Kiểm kê: Sai lệch"
+msgstr "Tồn kho: Chênh lệch"
 
 #: Menu.InventoryDiffDetail
 msgid "Inventory: Difference Detail"
-msgstr "Kiểm kê: Sai lệch chi tiết"
+msgstr "Tồn kho: Chênh lệch chi tiết"
 
 #: Menu.InventoryListDetail
 msgid "Inventory: List Detail"
-msgstr "Kiểm kê: Liệt kê chi tiết"
+msgstr "Tồn kho: Liệt kê chi tiết"
 
 #: Menu.Locations
 msgid "Locations"
@@ -1264,15 +1263,14 @@ msgid "Reports"
 msgstr "Báo cáo"
 
 #: Menu.PaymentReport
-#, fuzzy
 msgctxt "Menu.PaymentReport"
 msgid "Payments"
-msgstr "Số tiền trả"
+msgstr "Chi trả"
 
 #: Menu.Payments
 msgctxt "Menu.Payments"
 msgid "Payments"
-msgstr "Thu/Chi"
+msgstr "Thu Chi"
 
 #: Menu.Printer
 msgid "Printers"
@@ -1817,15 +1815,15 @@ msgstr ""
 
 #: stock.in.movement
 msgid "(In) Movement"
-msgstr ""
+msgstr "(Nhập) Chuyển kho"
 
 #: stock.in.purchase
 msgid "(In) Purchase"
-msgstr ""
+msgstr "(Nhập) Mua hàng"
 
 #: stock.in.refund
 msgid "(In) Refund"
-msgstr ""
+msgstr "(Nhập) Khách trả hàng"
 
 #: stock.out.break
 msgid "(Out) Breakage"
@@ -1833,19 +1831,19 @@ msgstr ""
 
 #: stock.out.crossing
 msgid "Crossing"
-msgstr ""
+msgstr "Chuyển kho"
 
 #: stock.out.movement
 msgid "(Out) Movement"
-msgstr ""
+msgstr "(Xuất) Chuyển kho"
 
 #: stock.out.refund
 msgid "(Out) Refund"
-msgstr ""
+msgstr "(Xuất) Trả lại nhà cung cấp"
 
 #: stock.out.sale
 msgid "(Out) Sale"
-msgstr ""
+msgstr "(Xuất) Bán hàng"
 
 #: tab.bank
 msgctxt "tab.bank"

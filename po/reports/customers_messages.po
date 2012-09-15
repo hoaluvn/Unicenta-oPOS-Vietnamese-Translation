@@ -32,28 +32,28 @@ msgstr ""
 
 #: label.title
 msgid "Customers"
-msgstr ""
+msgstr "Khách hàng"
 
 #: label.printed
 msgid "Printed"
-msgstr ""
+msgstr "Bản in"
 
 #: label.maxdebt
 msgid "Max Debt"
-msgstr ""
+msgstr "Giới hạn dư nợ"
 
 #: label.curdebt
 msgid "Debt current"
-msgstr ""
+msgstr "Dư nợ hiện tại"
 
 #: label.curdate
 msgid "Debt date"
-msgstr ""
+msgstr "Ngày ghi nợ"
 
 #: label.notes
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
 #: label.taxid
 msgid "Account ID"
-msgstr ""
+msgstr "Mã khách hàng"
